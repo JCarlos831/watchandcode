@@ -36,7 +36,10 @@ todos.splice(3, 1);
 
 // makeSandwichWith_ham_
 // makeSandwichWith("ham")
-// console.log("My todos: ", todos)
-function sayHiTo(person){
-    console.log("Hi", person);
+// // console.log("My todos: ", todos)
+// function sayHiTo(person){
+//     console.log("Hi", person);
+// }
+function displayTodos(){
+    console.log("My todos: ", todos);
 }
