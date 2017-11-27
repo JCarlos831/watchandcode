@@ -4,10 +4,10 @@ console.log("My todos:", todos);
 
 todos.push("item 4", "item 5");
 
-todos[0] = "item 1 updated";
+// todos[0] = "item 1 updated";
 
-todos.splice(0,1);
-todos.splice(3, 1);
+// todos.splice(0,1);
+// todos.splice(3, 1);
 
 // makeTurkeySandwich
 //     Get one slice of bread.
@@ -51,5 +51,10 @@ function addTodo(todo){
 
 function changeTodo(position, newValue){
     todos[position] = newValue;
+    displayTodos();
+}
+
+function deleteTodo(position){
+    todos.splice(position, 1);
     displayTodos();
 }
