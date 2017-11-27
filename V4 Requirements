@@ -2,4 +2,4 @@
 
 - todoList.changeTodo should change the todoText property - done
 
-- todoList.toggleCompleted should change the completed property
+- todoList.toggleCompleted should change the completed property - done
