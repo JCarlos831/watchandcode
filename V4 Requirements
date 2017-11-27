@@ -1,5 +1,5 @@
-- todoList.addTodo should add objects
+- todoList.addTodo should add objects - done
 
-- todoList.changeTodo should change the todoText property
+- todoList.changeTodo should change the todoText property - done
 
 - todoList.toggleCompleted should change the completed property
