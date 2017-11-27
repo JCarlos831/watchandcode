@@ -43,3 +43,8 @@ todos.splice(3, 1);
 function displayTodos(){
     console.log("My todos: ", todos);
 }
+
+function addTodo(todo){
+    todos.push(todo);
+    displayTodos();
+}
