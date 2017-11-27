@@ -1,6 +1,6 @@
 - It should store the todos array on an object - done
 
-- It should have a displayTodos method
+- It should have a displayTodos method - done
 
 - It should have an addTodo method
 
