@@ -1,5 +1,5 @@
 - .displayTodos should show .todoText - done
 
-- .displayTodos should tell you if .todos is empty
+- .displayTodos should tell you if .todos is empty - done
 
 - .displayTodos should show .completed
