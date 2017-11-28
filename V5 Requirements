@@ -2,4 +2,4 @@
 
 - .displayTodos should tell you if .todos is empty - done
 
-- .displayTodos should show .completed
+- .displayTodos should show .completed - done
