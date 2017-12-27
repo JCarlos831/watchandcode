@@ -1,0 +1,5 @@
+- There should be a "Display todos" button and a "Toggle all" button in the app - done
+
+- Clicking "Display todos" should run todoList.displayTodos - done
+
+- Clicking "Toggle all" should run todoList.toggleAll - done
