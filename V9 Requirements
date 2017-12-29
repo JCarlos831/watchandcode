@@ -1,0 +1,5 @@
+- There should be an li element for every todo - done
+
+- Each li element should contain .todoText - done
+
+- Each li element should show .completed - done
