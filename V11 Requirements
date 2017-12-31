@@ -1,0 +1,3 @@
+- todoList.toggleAll should use forEach - done
+
+- view.displayTodos should use forEach - done
